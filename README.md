@@ -19,8 +19,6 @@ A weather app fetches real-time data via API to provide current weather informat
 3. Enter your location in the search box.
 4. View real-time weather information.
 
-## Credits:
-- Weather API: [Provide API provider's name or link]
+## INTERFACE 
+<img width="960" alt="Screenshot 2024-03-04 212358" src="https://github.com/Sabavat-Jayanth-Naik/WeatherAPP/assets/130920035/950bf21a-bab1-4382-8e38-c7b0afb54f87">
 
-## License:
-[Include license information]
